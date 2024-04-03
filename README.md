@@ -1,6 +1,5 @@
-
 # 🩺 Deep Learning for PPG Signal Analysis in Cardiac Abnormality Detection
-
+🧑‍🤝‍🧑Thanks to [Andrea Bertogalli](https://github.com/andberto) and [Nicolò Tombini](https://github.com/tombinic)
 ## Overview
 
 This project explores the utilization of deep learning techniques in analyzing Photoplethysmography (PPG) signals to identify cardiovascular abnormalities, specifically Premature Atrial Complex (PAC) and Premature Ventricular Complex (PVC). By leveraging the power of neural networks, we aim to bypass traditional manual feature extraction methods, enhancing diagnostic accuracy and scalability.
